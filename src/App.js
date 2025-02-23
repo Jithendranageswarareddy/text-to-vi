@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", padding: "20px" }}>
-      <h1>AI Image Generator</h1>
+      <h1>AI Image </h1>
       <input
         type="text"
         placeholder="Enter a prompt..."
