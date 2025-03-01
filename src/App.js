@@ -13,7 +13,7 @@ function App() {
         }
 
         setLoading(true);
-        const apiKey = "5b4e9762-16da-43e6-b2b2-3df3d3f7c5b8"; // Replace with your actual API Key
+        const apiKey = "YOUR_DEEPAI_API_KEY"; // Replace with your actual API Key
         const url = "https://api.deepai.org/api/text2img";
 
         try {
